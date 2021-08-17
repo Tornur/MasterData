@@ -3,7 +3,7 @@
    "title": "TheWitcherModule",   
    "description": "Sharing Witcher data across worlds",   
    "author": "Insert Your Name Here",
-   "version": "1.0.0",
+   "version": "0.0.2",
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion":"0.8.5",
    "packs": [
