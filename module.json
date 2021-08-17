@@ -13,27 +13,9 @@
       "entity": "Item",
       "package": "MasterData"
     },{
-      "name": "NormalArmors",
-      "label": "NormalArmors",
-      "path": "packs/normalarmors.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "ElderfolkArmors",
-      "label": "ElderfolkArmors",
-      "path": "packs/elderfolkarmors.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "RelicArmors",
-      "label": "RelicArmors",
-      "path": "packs/relicarmors.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "ArmorEnhancements",
-      "label": "ArmorEnhancements",
-      "path": "packs/armorenhancements.db",
+      "name": "Armors",
+      "label": "Armors",
+      "path": "packs/armors.db",
       "entity": "Item",
       "package": "MasterData"
     },{
