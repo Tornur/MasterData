@@ -294,5 +294,8 @@
       "entity": "Actor",
       "module": "TheWitcherModule"
     }
-  ]
+  ],
+  "url": "https://github.com/AnthonyMonette/TheWitcherModule",
+  "manifest": "https://github.com/AnthonyMonette/TheWitcherModule/releases/latest/download/module.json",
+  "download": "https://github.com/AnthonyMonette/TheWitcherModule/releases/latest/download/module.zip"
  }
