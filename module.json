@@ -127,36 +127,6 @@
       "entity": "Item",
       "package": "MasterData"
     },{
-      "name": "Spells",
-      "label": "Spells",
-      "path": "packs/spells.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "Signs",
-      "label": "Signs",
-      "path": "packs/Signs.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "Hexes",
-      "label": "Hexes",
-      "path": "packs/hexes.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "Rituals",
-      "label": "Rituals",
-      "path": "packs/rituals.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "Invocations",
-      "label": "Invocations",
-      "path": "packs/invocations.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
       "name": "Professions",
       "label": "Professions",
       "path": "packs/professions.db",
@@ -250,6 +220,12 @@
       "name": "Animals",
       "label": "Animals",
       "path": "packs/animals.db",
+      "entity": "Actor",
+      "package": "MasterData"
+    },{
+      "name": "Magic",
+      "label": "Magic",
+      "path": "packs/magic.db",
       "entity": "Actor",
       "package": "MasterData"
     }
