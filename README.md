@@ -1,2 +1,2 @@
-# TheWitcherModule
-Smapll Description
+# WitcherCollection
+Small Description
