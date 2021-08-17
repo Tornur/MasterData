@@ -1,7 +1,7 @@
 {   
-   "name": "TheWitcherModule",   
-   "title": "TheWitcherModule",   
-   "description": "Sharing Witcher data across worlds",   
+   "name": "MasterData",   
+   "title": "MasterData",   
+   "description": "Sharing data across worlds",   
    "author": "Insert Your Name Here",
    "version": "0.0.3",
    "minimumCoreVersion": "0.7.0",
@@ -11,250 +11,250 @@
       "label": "NormalWeapons",
       "path": "packs/normalweapons.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "ElderfolkWeapons",
       "label": "ElderfolkWeapons",
       "path": "packs/elderfolkweapons.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "WitcherWeapons",
       "label": "WitcherWeapons",
       "path": "packs/witcherweapons.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "RelicWeapons",
       "label": "RelicWeapons",
       "path": "packs/relicweapons.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Bombs",
       "label": "Bombs",
       "path": "packs/bombs.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Traps",
       "label": "Traps",
       "path": "packs/traps.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "ExperimentalAmmunition",
       "label": "ExperimentalAmmunition",
       "path": "packs/experimentalammunition.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "MonsterWeapons",
       "label": "MonsterWeapons",
       "path": "packs/monsterweapons.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "NormalArmors",
       "label": "NormalArmors",
       "path": "packs/normalarmors.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "ElderfolkArmors",
       "label": "ElderfolkArmors",
       "path": "packs/elderfolkarmors.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "RelicArmors",
       "label": "RelicArmors",
       "path": "packs/relicarmors.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "ArmorEnhancements",
       "label": "ArmorEnhancements",
       "path": "packs/armorenhancements.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Potions/Oils",
       "label": "Potions/Oils",
       "path": "packs/potionsoils.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "AlchemicalItems",
       "label": "AlchemicalItems",
       "path": "packs/alchemicalitems.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Toolkits",
       "label": "Toolkits",
       "path": "packs/toolkits.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Gear",
       "label": "Gear",
       "path": "packs/gear.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "MountEquipment",
       "label": "MountEquipment",
       "path": "packs/mountequipment.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Transportation",
       "label": "Transportation",
       "path": "packs/transportation.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Runes",
       "label": "Runes",
       "path": "packs/runes.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Glyphs",
       "label": "Glyphs",
       "path": "packs/glyphs.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Spells",
       "label": "Spells",
       "path": "packs/spells.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Signs",
       "label": "Signs",
       "path": "packs/Signs.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Hexes",
       "label": "Hexes",
       "path": "packs/hexes.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Rituals",
       "label": "Rituals",
       "path": "packs/rituals.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Invocations",
       "label": "Invocations",
       "path": "packs/invocations.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Professions",
       "label": "Professions",
       "path": "packs/professions.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Races",
       "label": "Races",
       "path": "packs/races.db",
       "entity": "Item",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Monsters",
       "label": "Monsters",
       "path": "packs/monsters.db",
       "entity": "Actor",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Humanoids",
       "label": "Humanoids",
       "path": "packs/humanoids.db",
       "entity": "Actor",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Necrophages",
       "label": "Necrophages",
       "path": "packs/necrophages.db",
       "entity": "Actor",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Specters",
       "label": "Specters",
       "path": "packs/specters.db",
       "entity": "Actor",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Beasts",
       "label": "Beasts",
       "path": "packs/beasts.db",
       "entity": "Actor",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "CursedOnes",
       "label": "CursedOnes",
       "path": "packs/cursedones.db",
       "entity": "Actor",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Hybrids",
       "label": "Hybrids",
       "path": "packs/hybrids.db",
       "entity": "Actor",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Insectoids",
       "label": "Insectoids",
       "path": "packs/insectoids.db",
       "entity": "Actor",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Elementa",
       "label": "Elementa",
       "path": "packs/elementa.db",
       "entity": "Actor",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Relicts",
       "label": "Relicts",
       "path": "packs/relicts.db",
       "entity": "Actor",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Ogroids",
       "label": "Ogroids",
       "path": "packs/ogroids.db",
       "entity": "Actor",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Draconids",
       "label": "Draconids",
       "path": "packs/draconids.db",
       "entity": "Actor",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Vampires",
       "label": "Vampires",
       "path": "packs/vampires.db",
       "entity": "Actor",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     },{
       "name": "Animals",
       "label": "Animals",
       "path": "packs/animals.db",
       "entity": "Actor",
-      "package": "TheWitcherModule"
+      "package": "MasterData”
     }
   ],
-  "url": "https://github.com/AnthonyMonette/TheWitcherModule",
-  "manifest": "https://github.com/AnthonyMonette/TheWitcherModule/releases/latest/download/module.json",
-  "download": "https://github.com/AnthonyMonette/TheWitcherModule/releases/latest/download/module.zip"
+  "url": "https://github.com/Tornur/MasterData",
+  "manifest": "https://github.com/Tornur/MasterData/releases/latest/download/module.json",
+  "download": "https://github.com/Tornur/MasterData/releases/latest/download/module.zip"
  }
