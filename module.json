@@ -226,7 +226,7 @@
       "name": "Magic",
       "label": "Magic",
       "path": "packs/magic.db",
-      "entity": "Actor",
+      "entity": "Item",
       "package": "MasterData"
     }
   ],
