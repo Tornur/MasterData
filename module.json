@@ -7,51 +7,9 @@
    "minimumCoreVersion": "0.7.0",
    "packs": [
      {
-      "name": "NormalWeapons",
-      "label": "NormalWeapons",
-      "path": "packs/normalweapons.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "ElderfolkWeapons",
-      "label": "ElderfolkWeapons",
-      "path": "packs/elderfolkweapons.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "WitcherWeapons",
-      "label": "WitcherWeapons",
-      "path": "packs/witcherweapons.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "RelicWeapons",
-      "label": "RelicWeapons",
-      "path": "packs/relicweapons.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "Bombs",
-      "label": "Bombs",
-      "path": "packs/bombs.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "Traps",
-      "label": "Traps",
-      "path": "packs/traps.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "ExperimentalAmmunition",
-      "label": "ExperimentalAmmunition",
-      "path": "packs/experimentalammunition.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "MonsterWeapons",
-      "label": "MonsterWeapons",
-      "path": "packs/monsterweapons.db",
+      "name": "Weapons",
+      "label": "Weapons",
+      "path": "packs/weapons.db",
       "entity": "Item",
       "package": "MasterData"
     },{
