@@ -43,6 +43,12 @@
       "entity": "Item",
       "package": "MasterData"
     },{
+      "name": "Diagrams",
+      "label": "Diagrams",
+      "path": "packs/diagrams.db",
+      "entity": "Item",
+      "package": "MasterData"
+    },{
       "name": "Magic",
       "label": "Magic",
       "path": "packs/magic.db",
