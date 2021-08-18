@@ -19,54 +19,6 @@
       "entity": "Item",
       "package": "MasterData"
     },{
-      "name": "Potions/Oils",
-      "label": "Potions/Oils",
-      "path": "packs/potionsoils.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "AlchemicalItems",
-      "label": "AlchemicalItems",
-      "path": "packs/alchemicalitems.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "Toolkits",
-      "label": "Toolkits",
-      "path": "packs/toolkits.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "Gear",
-      "label": "Gear",
-      "path": "packs/gear.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "MountEquipment",
-      "label": "MountEquipment",
-      "path": "packs/mountequipment.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "Transportation",
-      "label": "Transportation",
-      "path": "packs/transportation.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "Runes",
-      "label": "Runes",
-      "path": "packs/runes.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
-      "name": "Glyphs",
-      "label": "Glyphs",
-      "path": "packs/glyphs.db",
-      "entity": "Item",
-      "package": "MasterData"
-    },{
       "name": "Professions",
       "label": "Professions",
       "path": "packs/professions.db",
@@ -83,6 +35,12 @@
       "label": "Monsters",
       "path": "packs/monsters.db",
       "entity": "Actor",
+      "package": "MasterData"
+    },{
+      "name": "Valuables",
+      "label": "Valuables",
+      "path": "packs/valuables.db",
+      "entity": "Item",
       "package": "MasterData"
     },{
       "name": "Magic",
