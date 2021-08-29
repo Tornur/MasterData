@@ -3,7 +3,7 @@
    "title": "MasterData",   
    "description": "Sharing data across worlds",   
    "author": "Insert Your Name Here",
-   "version": "0.0.13",
+   "version": "0.0.14",
    "minimumCoreVersion": "0.7.0",
    "packs": [
      {
@@ -52,6 +52,12 @@
       "name": "Magic",
       "label": "Magic",
       "path": "packs/magic.db",
+      "entity": "Item",
+      "package": "MasterData"
+    },{
+      "name": "Components",
+      "label": "Components",
+      "path": "packs/component.db",
       "entity": "Item",
       "package": "MasterData"
     }
