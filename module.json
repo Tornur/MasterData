@@ -3,7 +3,7 @@
    "title": "MasterData",   
    "description": "Sharing data across worlds",   
    "author": "Insert Your Name Here",
-   "version": "0.0.16",
+   "version": "0.0.17",
    "minimumCoreVersion": "0.7.0",
    "packs": [
      {
@@ -58,6 +58,12 @@
       "name": "Components",
       "label": "Components",
       "path": "packs/component.db",
+      "entity": "Item",
+      "package": "MasterData"
+    },{
+      "name": "Active Effects",
+      "label": "Active Effects",
+      "path": "packs/active-effects.db",
       "entity": "Item",
       "package": "MasterData"
     }
