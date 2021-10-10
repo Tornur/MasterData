@@ -3,7 +3,7 @@
    "title": "MasterData",   
    "description": "Sharing data across worlds",   
    "author": "Insert Your Name Here",
-   "version": "0.0.17",
+   "version": "0.0.18",
    "minimumCoreVersion": "0.7.0",
    "packs": [
      {
@@ -66,6 +66,42 @@
       "path": "packs/active-effects.db",
       "entity": "Item",
       "package": "MasterData"
+    },{
+      "name": "Characters",
+      "label": "Characters",
+      "path": "packs/characters.db",
+      "entity": "Actor",
+      "package": "MasterData"
+    },{
+      "name": "Roll Tables",
+      "label": "Rolltables",
+      "path": "packs/rolltables.db",
+      "entity": "RollTable",
+      "module": "MasterData"
+    },{
+      "name": "Scenes",
+      "label": "Scenes",
+      "path": "packs/scenes.db",
+      "entity": "Scene",
+      "module": "MasterData"
+    },{
+      "name": "Journal entries",
+      "label": "Journal Entries",
+      "path": "packs/journal-entries.db",
+      "entity": "JournalEntry",
+      "module": "MasterData"
+    },{
+      "name": "Playlists",
+      "label": "Playlists",
+      "path": "packs/playlists.db",
+      "entity": "Playlist",
+      "module": "MasterData"
+    },{
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros.db",
+      "entity": "Macro",
+      "module": "MasterData"
     }
   ],
   "url": "https://github.com/Tornur/MasterData",
