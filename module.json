@@ -3,7 +3,7 @@
    "title": "MasterData",   
    "description": "Sharing data across worlds",   
    "author": "Insert Your Name Here",
-   "version": "0.0.20",
+   "version": "0.0.21",
    "minimumCoreVersion": "0.7.0",
    "packs": [
      {
