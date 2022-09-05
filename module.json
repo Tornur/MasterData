@@ -3,101 +3,117 @@
    "title": "MasterData",   
    "description": "Sharing data across worlds",   
    "author": "Insert Your Name Here",
-   "version": "0.0.23",
+   "version": "0.0.24",
    "minimumCoreVersion": "0.7.0",
    "packs": [
      {
       "name": "Weapons",
+      "system": "TheWitcherTRPG",
       "label": "Weapons",
       "path": "packs/weapons.db",
       "entity": "Item",
       "package": "MasterData"
     },{
       "name": "Armors",
+      "system": "TheWitcherTRPG",
       "label": "Armors",
       "path": "packs/armors.db",
       "entity": "Item",
       "package": "MasterData"
     },{
       "name": "Professions",
+      "system": "TheWitcherTRPG",
       "label": "Professions",
       "path": "packs/professions.db",
       "entity": "Item",
       "package": "MasterData"
     },{
       "name": "Races",
+      "system": "TheWitcherTRPG",
       "label": "Races",
       "path": "packs/races.db",
       "entity": "Item",
       "package": "MasterData"
     },{
       "name": "Monsters",
+      "system": "TheWitcherTRPG",
       "label": "Monsters",
       "path": "packs/monsters.db",
       "entity": "Actor",
       "package": "MasterData"
     },{
       "name": "Valuables",
+      "system": "TheWitcherTRPG",
       "label": "Valuables",
       "path": "packs/valuables.db",
       "entity": "Item",
       "package": "MasterData"
     },{
       "name": "Diagrams",
+      "system": "TheWitcherTRPG",
       "label": "Diagrams",
       "path": "packs/diagrams.db",
       "entity": "Item",
       "package": "MasterData"
     },{
       "name": "Magic",
+      "system": "TheWitcherTRPG",
       "label": "Magic",
       "path": "packs/magic.db",
       "entity": "Item",
       "package": "MasterData"
     },{
       "name": "Components",
+      "system": "TheWitcherTRPG",
       "label": "Components",
       "path": "packs/component.db",
       "entity": "Item",
       "package": "MasterData"
     },{
       "name": "Active Effects",
+      "system": "TheWitcherTRPG",
       "label": "Active Effects",
       "path": "packs/active-effects.db",
       "entity": "Item",
       "package": "MasterData"
     },{
       "name": "Characters",
+      "system": "TheWitcherTRPG",
       "label": "Characters",
       "path": "packs/characters.db",
       "entity": "Actor",
       "package": "MasterData"
     },{
       "name": "Roll Tables",
+      "system": "TheWitcherTRPG",
       "label": "Rolltables",
       "path": "packs/rolltables.db",
       "entity": "RollTable",
       "module": "MasterData"
     },{
       "name": "Scenes",
+      "system": "TheWitcherTRPG",
       "label": "Scenes",
       "path": "packs/scenes.db",
       "entity": "Scene",
       "module": "MasterData"
     },{
       "name": "Journal entries",
+      "system": "TheWitcherTRPG",
       "label": "Journal Entries",
       "path": "packs/journal-entries.db",
       "entity": "JournalEntry",
       "module": "MasterData"
     },{
       "name": "Playlists",
+      "system": "TheWitcherTRPG",
       "label": "Playlists",
       "path": "packs/playlists.db",
       "entity": "Playlist",
       "module": "MasterData"
     },{
       "name": "macros",
+      "system": "TheWitcherTRPG",
       "label": "Macros",
       "path": "packs/macros.db",
       "entity": "Macro",
